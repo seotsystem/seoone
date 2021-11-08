@@ -681,55 +681,55 @@ a.read-more:hover {
 
 .marker-circle{
     display:inline-block;
-    background:url(../images/marker-circle-dark.png) center no-repeat;
+    background:url(http://tolkitseo.rf.gd/SEO/images/markercircle/marker-circle-dark.png) center no-repeat;
     background-size:contain;
     padding:40px 0;
     text-align:center;
 }
 .dark-bg .marker-circle{
-    background:url(../images/marker-circle-light.png) center no-repeat;
+    background:url(http://tolkitseo.rf.gd/SEO/images/markercircle/marker-circle-light.png) center no-repeat;
     background-size:contain;
 }
 
 
 .marker-arrow-left{
     display:inline-block;
-    background:url(../images/marker-arrow-left-dark.png) left no-repeat;
+    background:url(http://tolkitseo.rf.gd/SEO/images/markercircle/marker-arrow-left-dark.png) left no-repeat;
     padding-left:150px;
     text-align:right;
 
 
 }
 .dark-bg .marker-arrow-left{
-    background:url(../images/marker-arrow-left-light.png) left no-repeat;
+    background:url(http://tolkitseo.rf.gd/SEO/images/markercircle/marker-arrow-left-light.png) left no-repeat;
 }
 
 .marker-arrow-right{
     display:inline-block;
-    background:url(../images/marker-arrow-right-dark.png) right no-repeat;
+    background:url(http://tolkitseo.rf.gd/SEO/images/markercircle/marker-arrow-right-dark.png) right no-repeat;
     padding-right:150px;
     text-align:left;
 }
 .dark-bg .marker-arrow-right{
-    background:url(../images/marker-arrow-right-light.png) right no-repeat;
+    background:url(http://tolkitseo.rf.gd/SEO/images/markercircle/marker-arrow-right-light.png) right no-repeat;
 }
 
 .marker-arrow-down{
     display:inline-block;
-    background:url(../images/marker-arrow-down-dark.png) center top no-repeat;
+    background:url(http://tolkitseo.rf.gd/SEO/images/markercircle/marker-arrow-down-dark.png) center top no-repeat;
     padding-top:125px;
 }
 .dark-bg .marker-arrow-down{
-    background:url(../images/marker-arrow-down-light.png) center top no-repeat;
+    background:url(http://tolkitseo.rf.gd/SEO/images/markercircle/marker-arrow-down-light.png) center top no-repeat;
 }
 
 .marker-arrow-up{
     display:inline-block;
-    background:url(../images/marker-arrow-up-dark.png) center bottom no-repeat;
+    background:url(http://tolkitseo.rf.gd/SEO/images/markercircle/marker-arrow-up-dark.png) center bottom no-repeat;
     padding-bottom:125px;
 }
 .dark-bg .marker-arrow-up{
-    background:url(../images/marker-arrow-up-light.png) center bottom no-repeat;
+    background:url(http://tolkitseo.rf.gd/SEO/images/markercircle/marker-arrow-up-light.png) center bottom no-repeat;
 }
 
 /*----------------------------------------------------------------------------------------
