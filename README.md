@@ -1,0 +1,2 @@
+# seoone
+keperluan bisnis
